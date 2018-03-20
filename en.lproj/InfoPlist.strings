@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  fictionary
+
+  Created by 流年划过颜夕 on 2016/12/6.
+  Copyright © 2016年 tommin. All rights reserved.
+*/
+
+CFBundleDisplayName = "DomeApp";
