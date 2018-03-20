@@ -6,4 +6,7 @@
 #### 1.打开终端通过Ruby进行操作： 
 #### liunianhuaguoyanxideMacBook-Pro:~ liunianhuaguoyanxi$ java -jar /Users/liunianhuaguoyanxi/Desktop/未命名文件夹\ 2/ZWLocalizationsExcelSwitch.jar（即java+jar+ZWLocalizationsExcelSwitch.jar的绝对路径）.
 #### 2.根据提示，选择序号进行操作，最后生成的内容在TMP文件夹下，完成后，本地查看前往/tmp/.
+### 实例：
+#### 导出Excel：
+#### 导入Excel：
 ### 详情如excel格式等参见dome，自用的简单小脚本，但能提升工作效率，分享给大家，若能给大家带来帮助，记得star🙂~
